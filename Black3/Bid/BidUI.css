@@ -1,0 +1,52 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+#players{
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    height: 100vh;
+   
+}
+#P1{
+    border: 10px solid black;
+    width: 100%;
+}
+
+
+#P2{
+    border: 10px solid black;
+    width: 25%;
+
+
+}
+
+#P3{
+    border: 10px solid black;
+    width: 25%;
+    
+
+
+
+
+}
+
+#P4{
+    border: 10px solid black;
+    width: 100%;
+    
+
+
+
+
+}
+img{
+    width: 10px;
+    height: 10px;
+}
